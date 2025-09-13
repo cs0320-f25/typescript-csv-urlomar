@@ -49,8 +49,8 @@ I guess I would get a better understanding of different use cases being that the
 #### Tests: I think I had a lot of bugs with the way I wrote my tests and CSV files so I had to go back in and change my tests, for example, some of my tests didn't pass because I accidentally added an extra space before text so I had to go back and fix that.
 #### How To…
 
-#### Team members and contributions (include cs logins):
+#### Team members and contributions (include cs logins): N/A
 
 #### Collaborators (cslogins of anyone you worked with on this project and/or generative AI):
-#### Total estimated time it took to complete project:
-#### Link to GitHub Repo:  
+#### Total estimated time it took to complete project: 5-8
+#### Link to GitHub Repo:  https://github.com/cs0320-f25/typescript-csv-urlomar

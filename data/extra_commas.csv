@@ -1,0 +1,5 @@
+name1, name2, course, role
+Tim, Nelson, CSCI 0320, instructor
+Nim, Telson, CSCI 0320, student
+Zion, Zion, "CSCI 0320, SNC", student
+"Zion, Zion", "Zion, Zion", "CSCI 0320, SNC", student
